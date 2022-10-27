@@ -1,13 +1,10 @@
 {
-  "name": "ตรวจหวย16765 สมัครยังไง - เว็บใหม่ uwin789 2023 ล่าสุด",
+  "name": "SNTCFrU63C8EbQkXc32iDTr9NtxBrq5aDBEwagibtVCJLGG9V4",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "ตรวจหวย16/7/65 หมายเหตุ เนื่องแต่ ตรวจหวย16/7/65 Uwin789 ยูวิน หวยออนไลน์ มีหวยทุกชนิด หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูก",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": [
-    "ตรวจหวย16/7/65",
-    "ตรวจหวย16/7/65 Uwin789"
-  ],
+  "keywords": ["ตรวจหวย16/7/65","ตรวจหวย16/7/65 Uwin789"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
