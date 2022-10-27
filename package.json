@@ -1,10 +1,16 @@
 {
-  "name": "3Sncd21tedi8vEPQGnPRGVgEXf1vh3J2Y6LbUeJwu7KhyQtybG",
+  "name": "lottovip เข้าสู่ระบบ คืออะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.27",
   "description": "lottovip เข้าสู่ระบบ หวยหุ้นจีนเล่นยังไง ด้วย lottovip เข้าสู่ระบบ Huaylike หวยออนไลน์ อันดับหนึ่ง ออกรางวัลยังไง และอัตราจ่ายหวยหุ้นจีนออนไลน์ ออก 2 รอบใน",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["LOTTOVIP เข้าสู่ระบบ","LOTTOVIP","เข้าสู่ระบบ","LOTTOVIP Huaylike","เข้าสู่ระบบ Huaylike"],
+  "keywords": [
+    "LOTTOVIP เข้าสู่ระบบ",
+    "LOTTOVIP",
+    "เข้าสู่ระบบ",
+    "LOTTOVIP Huaylike",
+    "เข้าสู่ระบบ Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
