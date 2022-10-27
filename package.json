@@ -1,13 +1,10 @@
 {
-  "name": "สมัครหวยออนไลน์ คืออะไร - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "5UiEX8KhlVkSoIwXiKseK4edOXTo1V96KpGszhhj2UUur4eKqi",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "สมัครหวยออนไลน์ ผลหวยลาว บน สมัครหวยออนไลน์ Ruay หวยออนไลน์ อันดับหนึ่ง 7965 ผลหวยพัฒนา 7965 ผลหวยลาววันนี้ ย้อนหลังผลหวยลาว 7965 508366 ผลหวยลาว ผลหวยพัฒน",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": [
-    "สมัครหวยออนไลน์",
-    "สมัครหวยออนไลน์ Ruay"
-  ],
+  "keywords": ["สมัครหวยออนไลน์","สมัครหวยออนไลน์ Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
