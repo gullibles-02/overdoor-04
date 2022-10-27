@@ -1,10 +1,13 @@
 {
-  "name": "ISDASX2HPMPdp9dTR0HbieJtWOcC19kQP7j3DORbYVUutSG277",
+  "name": "เว็บหวยhuay คืออะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "เว็บหวยhuay หวยไทยรัฐ เว้นแต่ เว็บหวยhuay ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง ตารางเลขเด่นที่คอหวยสามารถติดตามได้ที่เว็บไซต์ของเราทุกงวด นอกจากนี้เรายังมี",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["เว็บหวยHUAY","เว็บหวยHUAY Choke"],
+  "keywords": [
+    "เว็บหวยHUAY",
+    "เว็บหวยHUAY Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
