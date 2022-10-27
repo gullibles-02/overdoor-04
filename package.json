@@ -1,10 +1,13 @@
 {
-  "name": "pFRH0DWK1PDnFafUR7A9CU6hl1LxAGk6P5rpQD7VS6zJ1aDHRx",
+  "name": "huay มีคำตอบ - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.33",
   "description": "huay เลขเด็ดเจ๊นุ๊ก เมื่อ huay Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด huay หวยออมสิน งวดวันที่ 16465เว็บ ซื้อหวยออนไลน์ เว็บรีวิวหวยออนไลน์ อันดับ 1 ของไทย ",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["HUAY","HUAY Lotto"],
+  "keywords": [
+    "HUAY",
+    "HUAY Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
