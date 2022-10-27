@@ -1,10 +1,22 @@
 {
-  "name": "Dhi9Ttf9oCeZZBB0xoKrG2ggCCWLuAMTllZm5IkzGnpdzovoHL",
+  "name": "สถิติหวย ย้อน หลัง 30 ปี ได้อย่างไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.32",
   "description": "สถิติหวย ย้อน หลัง 30 ปี หวยรัฐบาลเป็นหวยที่อยู่คู่กับคนไทยมาอย่างยาวนาน ได้แก่ สถิติหวย ย้อน หลัง 30 ปี Huaylike หวยออนไลน์ อันดับหนึ่ง มีให้เล่นเดือนละ 2",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["สถิติหวย ย้อน หลัง 30 ปี","สถิติหวย","ย้อน","หลัง","30","ปี","สถิติหวย Huaylike","ย้อน Huaylike","หลัง Huaylike","30 Huaylike","ปี Huaylike"],
+  "keywords": [
+    "สถิติหวย ย้อน หลัง 30 ปี",
+    "สถิติหวย",
+    "ย้อน",
+    "หลัง",
+    "30",
+    "ปี",
+    "สถิติหวย Huaylike",
+    "ย้อน Huaylike",
+    "หลัง Huaylike",
+    "30 Huaylike",
+    "ปี Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
