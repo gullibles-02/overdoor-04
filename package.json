@@ -1,10 +1,18 @@
 {
-  "name": "KIyugOH2LvrnsTuyylje5fzD1pGCYyo0y6rbzuuNoPP1ZjMeoc",
+  "name": "คำนวณ หวย เยอรมัน เลือกยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.40",
   "description": "คำนวณ หวย เยอรมัน 850ประเภทรางวัล2 ทั้งนี้ คำนวณ หวย เยอรมัน Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด ตัวบนวิ่ง 3 คำนวณ หวย เยอรมัน ตัวล่าง4.2วิ่ง 3 ตัวบน9",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["คำนวณ หวย เยอรมัน","คำนวณ","หวย","เยอรมัน","คำนวณ Huaylike","หวย Huaylike","เยอรมัน Huaylike"],
+  "keywords": [
+    "คำนวณ หวย เยอรมัน",
+    "คำนวณ",
+    "หวย",
+    "เยอรมัน",
+    "คำนวณ Huaylike",
+    "หวย Huaylike",
+    "เยอรมัน Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
