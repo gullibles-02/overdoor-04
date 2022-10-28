@@ -1,13 +1,10 @@
 {
-  "name": "โปรแกรมเจ้ามือหวย สรุปว่าอะไร - เว็บใหม่ masurebet 2023 ล่าสุด",
+  "name": "YROtFXVrekBEKdK7boDyobq4fQXWcxl28hYyj5SomnC1LUfZ8Y",
   "theme": "syntax",
   "version": "1.0.59",
   "description": "โปรแกรมเจ้ามือหวย หวยพม่า หากว่า โปรแกรมเจ้ามือหวย ที่ Masurebet เว็บหวยออนไลน์ อันดับหนึ่ง เป็นหวยที่คนนิยมเล่นมากโดย หวยพม่า3d นั้น จะอิงจากการออกรางวัลเ",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": [
-    "โปรแกรมเจ้ามือหวย",
-    "โปรแกรมเจ้ามือหวย Masurebet"
-  ],
+  "keywords": ["โปรแกรมเจ้ามือหวย","โปรแกรมเจ้ามือหวย Masurebet"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
