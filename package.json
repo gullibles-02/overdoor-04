@@ -1,10 +1,16 @@
 {
-  "name": "R92HFWUh2J47bsxN0059kyjt0L5QFVlz7gdekJVmF6XgHpuJg4",
+  "name": "หุ้นไต้หวัน index สมัครยังไง - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.78",
   "description": "หุ้นไต้หวัน index หวยหุ้นเป็นหวยที่มีรูปแบบการแทงที่คล้ายกับการ ถ้า หุ้นไต้หวัน index Jetsadabet หวยออนไลน์ อันดับหนึ่ง แทงหวยออนไลน์ หรือหวยใต้ดิน โดยที่จ",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["หุ้นไต้หวัน INDEX","หุ้นไต้หวัน","INDEX","หุ้นไต้หวัน Jetsadabet","INDEX Jetsadabet"],
+  "keywords": [
+    "หุ้นไต้หวัน INDEX",
+    "หุ้นไต้หวัน",
+    "INDEX",
+    "หุ้นไต้หวัน Jetsadabet",
+    "INDEX Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
