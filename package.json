@@ -1,10 +1,16 @@
 {
-  "name": "MR5s6BryqfkYOCKoTG9GKmxNtzPVJMmQln3xjDM6EaMHmGeeP4",
+  "name": "อ่านเค้าไพ่บาคาร่า pantip แตกต่างกันอย่างไร - เว็บใหม่ m88 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.61",
   "description": "อ่านเค้าไพ่บาคาร่า pantip ผู้เล่นสามารถแทงได้หลายตำแหน่งในตาเดียวกัน ใน อ่านเค้าไพ่บาคาร่า pantip M88 เว็บพนันออนไลน์ อันดับหนึ่ง หากต้องการเล่นรูเล็ตให้ได",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["อ่านเค้าไพ่บาคาร่า PANTIP","อ่านเค้าไพ่บาคาร่า","PANTIP","อ่านเค้าไพ่บาคาร่า M88","PANTIP M88"],
+  "keywords": [
+    "อ่านเค้าไพ่บาคาร่า PANTIP",
+    "อ่านเค้าไพ่บาคาร่า",
+    "PANTIP",
+    "อ่านเค้าไพ่บาคาร่า M88",
+    "PANTIP M88"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
