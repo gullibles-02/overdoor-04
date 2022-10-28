@@ -1,10 +1,16 @@
 {
-  "name": "NjIXLuxfgs1soRzgLF9YgAZsih3Kkyqxp4wW6TbcdqM8gmW4un",
+  "name": "เลขชุด ยี่กี สรุปว่าอะไร - เว็บใหม่ tubtim389 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.56",
   "description": "เลขชุด ยี่กี ตรวจผลการออกรางวัล ก่อน เลขชุด ยี่กี Tubtim389 หวยออนไลน์ อันดับหนึ่ง หวยหุ้นอังกฤษวันนี้งวดล่าสุด ประจำงวดวันที่ 14 มิถุนายน 2566 รางวัลที่ออ",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["เลขชุด ยี่กี","เลขชุด","ยี่กี","เลขชุด Tubtim389","ยี่กี Tubtim389"],
+  "keywords": [
+    "เลขชุด ยี่กี",
+    "เลขชุด",
+    "ยี่กี",
+    "เลขชุด Tubtim389",
+    "ยี่กี Tubtim389"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
