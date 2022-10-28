@@ -1,10 +1,16 @@
 {
-  "name": "aFCvopLL4a4GLOixvZ1BvWxIEVjgQK0Vkjdl9jENceX0b1A3Zi",
+  "name": "หุ้นสิงคโปร์ vip ดูที่ไหน - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "หุ้นสิงคโปร์ VIP ตรวจผลรางวัลหวยหุ้นเกาหลี ทว่า หุ้นสิงคโปร์ VIP ที่ Jetsadabet เว็บหวยออนไลน์ อันดับหนึ่ง หุ้นสิงคโปร์ VIP เช็คผลหุ้นเกาหลี ตรวจหวยหุ้นเกา",
   "repository": "https://github.com/gullibles-02/overdoor-04",
-  "keywords": ["หุ้นสิงคโปร์ VIP","หุ้นสิงคโปร์","VIP","หุ้นสิงคโปร์ Jetsadabet","VIP Jetsadabet"],
+  "keywords": [
+    "หุ้นสิงคโปร์ VIP",
+    "หุ้นสิงคโปร์",
+    "VIP",
+    "หุ้นสิงคโปร์ Jetsadabet",
+    "VIP Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
